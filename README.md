@@ -3,7 +3,7 @@
 This repository provides a lightweight benchmarking framework for evaluating large language models (LLMs) on **multi-GPU environments**.  
 It is designed to measure **performance, GPU utilization, and basic accuracy** across different types of tasks.  
 
-The tool has been tested on ** RTX 4000 Ada * multiple units** but can be adapted to other GPU setups.
+The tool has been tested on RTX 4000 Ada multiple units but can be adapted to other GPU setups.
 
 ---
 
